@@ -1,0 +1,59 @@
+MÓDULO 2
+--------
+
+INFRAESTRUCTURA COMO SERVICIO(IAAS)
+- Es el más maduro versus PAAS, SAAS.
+- La virtualización abstrae a las aplicaciones del Hardware.
+- Se puede elegir cpu, memoria, sistema operativo.
+
+GESTIÓN DE UN SERVICIO CLOUD
+----------------------------
+- El control y la gobernanza debe ser automatizado debido a que se podrían desplegar miles de máquinas
+- Vigilar el rendimiento, el consumo.
+- Si surgen incidencias, puedo resolverlo rápido.
+- Troubleshotting(Solución de Problemas).
+- Una vez más, el consumidor no usa un servicio cloud porque esta de moda, sino porque busca ser más competitivo y agilizar, automatizar
+sus procesos.
+
+PROFUNDIZAMOS HDDC y SDDC
+-------------------------
+- Modelo Hardware Define: Se busca algo muy concreto para cargas de trabajo exigente(puede ser por seguridad, rendimiento, latencias, etc)
+	y por tanto el hardware especifico debe soportar todas estas exigencias.
+
+- Modelo Software Define: Si se utiliza un hardware generico y se busca una plataforma de software permite alojar multiples aplicaciones 
+	siempre y cuando nuestra infraestructura sea eficiente. 
+
+SOFTWARE COMO SERVICIO(SAAS)
+----------------------------
+- Es un servicio cerrado que nos dan al uso, no preguntamos cuanto consume, ni que espacio reservo, ni copas de seguridad de correos, por ejemplo
+	redes sociales, apps corporativas, gestión de fotos, 
+- Abstracción máxima en los servicios de cloud.
+- ***** Cloud First: Si existe un software de SAAS que satisface mis necesidades, la consumo, sino satisface porque mi negocio requiere 
+	algo que no esta disponible, pues bajo un nivel y construyo una aplicacion y servicio pero me abstraigo de la infraestructura,
+	osea no me importa la infraestructura y si tampoco me satisface, bajo un nivel y me construyo una plataforma, una infraestructura
+	a medida para una app en concreta, asi se debe adoptar el modelo cloud.
+PROFUNDIZANDO
+-------------
+¿QUÉ ES UNA API?
+Interfaz de programación de aplicaciones, las API son un medio simplificado para conectar su propia infraestructura a través del desarrollo
+	 de aplicaciones nativas de la nube. Por ejemplo la API de Google Maps, que habilita acceso a sus recursos y al ser publica los 
+	 desarrolladores podrian desarrollar aplicaciones.
+	
+ENTONCES PODEMOS DECIR QUE PAAS CONSUME a IAAS MEDIANTE UNA API 
+
+EL NAVEGADOR COMO HERRAMIENTA PRINCIPAL
+---------------------------------------
+- El uso de un navegador en clave para mensajear, interactuar incluso para herramientas colaborativas, ofimatica y todo evoluciona al navegador
+	porque necesitamos usar algo cuando queramos y donde queramo. Ademas no hay que actualizar nada, ya sean nuevas versiones, etc. De
+	esta forma el usuario solo accede y listo no debe pensar en cómo se desarrolló que arquitectura ni nada, esa abstracción es importante.
+- El navegador es clave para implementar esa abstracción que debe ser sencilla desde el punto de vista del usuario.
+
+CLOUDBROCKERS
+-------------
+-El cloud broker es un agente que actúa como intermediario entre el comprador de un servicio de cloud computing y los vendedores de ese
+	 servicio. Esta figura puede ser de utilidad para ahorrar tiempo a la parte compradora en la búsqueda de la solución más adecuada
+	 y que mejor se adapte a los requisitos de su negocio.(INTERMEDIARIO)
+	
+
+MÓDULO 2
+--------
