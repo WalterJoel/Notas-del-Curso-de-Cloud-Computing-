@@ -53,7 +53,12 @@ CLOUDBROCKERS
 -El cloud broker es un agente que actúa como intermediario entre el comprador de un servicio de cloud computing y los vendedores de ese
 	 servicio. Esta figura puede ser de utilidad para ahorrar tiempo a la parte compradora en la búsqueda de la solución más adecuada
 	 y que mejor se adapte a los requisitos de su negocio.(INTERMEDIARIO)
-	
+
+**** LO MÁS INTERESENTE DEL EXAMEN ***
+--------------------------------------
+Los IaaS basan su servicio en la virtualización de servidores, ya que con un software de virtualizacion crean sobre un servidor fisico
+un monton de maquinas virtuales las cuales serán ofrecidas posteriormente a una serie de clientes donde ellos elegiran las capacidades de
+memoria procesamiento, etc.	
 
 MÓDULO 2
 --------
