@@ -109,3 +109,34 @@ TRABAJAR EN LA NUBE DEMO
 ------------------------
 - Aquí explicaron como usar el google docs, compartir el drive, programar un calendar. 
 
+------------------------------------------------------------------------
+MÓDULO 5 -- "QUÉ NECESITAN Y BUSCAN LAS EMPRESAS"
+------------------------------------------------------------------------
+
+- Si nos orientamos a servicios tenemos que poner el foco en el usuario o cliente, hay que romper los silos tecnológicos y centrarse en el usuario y el 
+	servicio que queremos dar.
+-Siguiente lección
+La movilidad empresarial es mucho más que entregarle un dispositivo móvil a una persona. También es mucho más que, simplemente, renovar plataformas cada 
+	cierto período de tiempo. Consiste en habilitar un proceso y una manera de trabajar en el día a día del negocio. Lo ideal sería trabajar de forma 
+	continua y homogénea. El Cloud afecta a la movilidad como tal y a los servicios que consume el usuario a través de los canales móviles y digitales.
+- Los puestos de trabajo requieren de todas estas consideraciones: ***** facilitar el acceso a un catálogo detallado de procesos, aplicaciones y datos, una experiencia 
+	de usuario óptima (independientemente del dispositivo utilizado) y, por supuesto, la seguridad granular en función del contexto en el que se encuentre
+	 el empleado *****
+- Workplace digital significa que se deben habilitar canales y experiencias digitales para el usuario final bajo un entorno multi-dispositivo y multi-contexto.
+
+                                                                                                                                                                                                                                      
+------------------------------------------------------------------------
+MÓDULO 7  -- "CASOS DE USO"
+------------------------------------------------------------------------
+- En un centro medico, logistica, retail, etc.
+
+------------------------------------------------------------------------
+ -- "CONCLUSIONES" --
+------------------------------------------------------------------------
+- ***** Interoperabilidad ***** sigue pendiente en cloud, porque aun es bidireccional osea cliente y proveedor, no se puede migrar datos entre dos proveedores.
+- Star Audit, permite acreditar personas en cloud, certifica a las empresas proveedoras como si fuera una ISO 9000, brinda partners especializados en diversas
+	areas(training, consultoria, auditoria, etc).
+
+- REPASO DE IDEAS PRINCIPALES
+-----------------------------
+- CLOUD es un modelo y no una tecnologia pero que si se apoya en la tecnologia, se paga por uso. Se divide en nube privada y nube publica.
